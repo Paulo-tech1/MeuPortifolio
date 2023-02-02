@@ -66,3 +66,7 @@ p{
 .depoimento{
     background-color: white !important;
 }
+
+html{
+    scroll-behavior: smooth;
+}
